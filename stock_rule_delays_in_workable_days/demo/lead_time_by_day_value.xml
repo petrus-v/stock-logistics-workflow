@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    Copyright 2024 Foodles (https://www.foodles.co/).
+    @author Alexandre Galdeano <alexandre.galdeano@foodles.co>
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
+-->
+<odoo>
+    <data noupdate="1">
+        <record id="lead_times_by_day_value_2" model="lead_times_by_day.value">
+            <field name="value">2</field>
+        </record>
+        <record id="lead_times_by_day_value_10" model="lead_times_by_day.value">
+            <field name="value">10</field>
+        </record>
+        <record id="lead_times_by_day_value_11" model="lead_times_by_day.value">
+            <field name="value">11</field>
+        </record>
+        <record id="lead_times_by_day_value_12" model="lead_times_by_day.value">
+            <field name="value">12</field>
+        </record>
+        <record id="lead_times_by_day_value_14" model="lead_times_by_day.value">
+            <field name="value">14</field>
+        </record>
+        <record id="lead_times_by_day_value_15" model="lead_times_by_day.value">
+            <field name="value">15</field>
+        </record>
+        <record id="lead_times_by_day_value_16" model="lead_times_by_day.value">
+            <field name="value">16</field>
+        </record>
+    </data>
+</odoo>
