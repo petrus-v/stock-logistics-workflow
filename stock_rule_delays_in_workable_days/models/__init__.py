@@ -1,0 +1,15 @@
+from . import (
+    lead_times_by_day,
+    lead_times_by_day_value,
+    product_category,
+    product_product,
+    product_template,
+    purchase_order_line,
+    res_partner,
+    resource_calendar,
+    stock_move_line,
+    stock_picking,
+    stock_rule,
+    stock_warehouse,
+    weekday,
+)
